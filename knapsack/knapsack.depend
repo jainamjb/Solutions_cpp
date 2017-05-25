@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472381081 source:d:\cpp\knapsack\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+

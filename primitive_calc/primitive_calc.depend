@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473514926 source:d:\cpp\primitive_calc\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

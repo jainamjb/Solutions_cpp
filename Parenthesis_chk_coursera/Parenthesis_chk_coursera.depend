@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473947082 source:d:\cpp\parenthesis_chk_coursera\main.cpp
+	<iostream>
+	<string.h>
+
